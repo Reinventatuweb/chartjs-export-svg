@@ -1,4 +1,6 @@
-Export ChartJs to SVG image support 4.x version
+Export <a href="https://www.chartjs.org/" target="_blank">ChartJs</a> to SVG image support 4.x version using <a href="https://gliffy.github.io/canvas2svg/" target="_blank">canvas2svg</a>
+
+
 
 Modified version removed "e.resetTransform()" for chartjs.min.js version 4.4.1
 
