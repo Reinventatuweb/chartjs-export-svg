@@ -1,6 +1,6 @@
 Export ChartJs to SVG image support 4.x version
 
-Modified version removed "e.resetTransform()" for chartjs version 4.4.1
+Modified version removed "e.resetTransform()" for chartjs.min.js version 4.4.1
 
 Jsfiddle: https://jsfiddle.net/Reinventatuweb/8upb2ksy/
 
